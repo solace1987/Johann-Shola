@@ -1,4 +1,9 @@
+body{
 
+   background-color: aliceblue;
+}
+    
+    
     img{
        max-width: 100%;
        height: auto;
@@ -6,3 +11,31 @@
        margin: 0 auto;
        border-radius: 5px;
     }
+header h1{
+
+   text-align: center;
+}
+
+#img-div{
+   text-align: center;
+}
+p{
+
+   margin-right:20px;
+   margin-left:20px;
+   
+   text-align: justify;
+}
+
+a{
+margin-left:20px ;
+
+}
+
+#img-div{
+   color: white;
+background-color:rgb(76, 84, 85,0.3);
+padding:40px;
+   margin:30px;
+   border-radius: 5px;
+}
